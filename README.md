@@ -10,6 +10,11 @@ Present work:
 A prototype is built with IBM Watson Studio with predictive analysis implemented using AutoAI experiment with machine learning instance. The user interface is designed using Node RED 
 ![Mr ME Project Roadmap](https://user-images.githubusercontent.com/87765430/127703415-ab03239c-a3e1-4ecf-b974-9cd55e36add2.jpeg)
 
+# Resources Used for solution Implementation:
+![Resources Used](https://user-images.githubusercontent.com/87765430/127706777-a15b5365-38df-4596-a4d3-6322fc6b9b43.png)
+
+# Solution Deployment
+![Prototype Deployment](https://user-images.githubusercontent.com/87765430/127706519-f97c5a5d-7b87-4629-a8e6-d50930914d4f.png)
 
 # Proposed solution - Working Prototype
 The prototype has been implemented in IBM Cloud platform using IBM Watson studio with AutoAI experiment and machine learning instance with UI designed and deployed using Node RED. The Mr ME Bot assistant is built with IBM Watson Assistant with simple machine learning dialog conversation about Mr. ME project queries. The bot assistant is planned to be trained with real time data using IBM Discovery in further implementation stages.
