@@ -18,6 +18,14 @@ The prototype has been implemented in IBM Cloud platform using IBM Watson studio
 
 ![Uploading Mr ME - Working Prototype.jpeg…]()
 
+# Contributing
+The solution has been worked by our team of 3 members. We have shared our responsibilities and contributions right from brain storming to deploying the prototype. We shall work on the further implementations planned in future as per the roadmap planned and submitted here.
+
+# References & Acknowledgements:
+The acknowledgements and references made for the project study and their corresponding web links are listed in the attached document.
+[Reference link - Climate Change- Carbon Emission t-Tress.xls](https://github.com/MrMeTeam/MrMeTeam/files/6909691/Reference.link.-.Climate.Change-.Carbon.Emission.t-Tress.xls)
+
+
 <!---
 MrMeTeam/MrMeTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
